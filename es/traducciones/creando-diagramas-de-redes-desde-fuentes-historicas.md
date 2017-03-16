@@ -162,7 +162,7 @@ Paso a paso:
 
 **9. Especifica la fuente y el destino de los nodos.** Primero que todo Palladio te pide especificar la “Source” (Fuente) y “Target” (Destino) de los nodos en la red (Figura 12). Empecemos con “Proveedores” y “Receptores”. Ahora verás el gráfico y podrás comenzar a estudiarlo con más detalle.
 
-{% include figure.html caption="Figura 12: Selecciones “Proveedor” como "Source" ("Fuente") y “Receptor” como "Target" ("Destino"). filename="diagramas-de-redes-12.png"%}
+{% include figure.html caption="Figura 12: Selecciones “Proveedor” como \"Source\" (\"Fuente\") y “Receptor” como \"Target\" (\"Destino\")." filename="diagramas-de-redes-12.png"%}
 
 **10. Resalta los nodos.** Continúa seleccionando las opciones de “Highlight” ("Resaltar"). Esto te dará una idea inmediata sobre quién actuó como proveedor de ayuda, quién únicamente recibió ayuda y qué actores fueron tanto proveedores como receptores de ayuda.
 
