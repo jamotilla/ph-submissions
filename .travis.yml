@@ -13,8 +13,9 @@ script: |
   --assume-extension \
   --empty-alt-ignore \
   --alt-ignore '/.*/' \
-  --file-ignore ./_site/assets/obo-t17800628-33.html \
-  --timeframe '30d'
+  --file-ignore '/.+/assets/.*/','/.+/lessons/deprecated/.*/' \
+  --timeframe '30d' \
+  --only-4xx
 
 env:
   global:
