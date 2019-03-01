@@ -7,9 +7,10 @@ date:
 authors:
 - Jairo Antonio Melo Flórez
 reviewers:
-- 
-editors:
 - José Antonio Motilla
+- María José Afanador 
+editors:
+- José Antonio Motilla 
 review-ticket: 
 difficulty: 
 activity: 
